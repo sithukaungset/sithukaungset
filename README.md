@@ -1,5 +1,5 @@
 - 👽 Techie
-- 👾 Software Engineer 
+- 👾 Software Engineer (Master Degree)
 - 🖥 Blockchain, Machine learning, Networking, Security.
 - 📫 sithukaungset27@gmail.com
 
