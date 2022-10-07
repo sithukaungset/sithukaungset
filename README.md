@@ -5,11 +5,11 @@
 
 - 👽 All about me is at [My Website](https://sithukaungset.github.io/)
 
-- 💬 Ask me about `var topics = [ "Java", "Spring", "Python", "CSS" ]`
+- 🖥 Blockchain, Machine Learning, Networking, Security
 
-- 📂 Purchase Face Mask Detection Report and Slides on [Gumroad](https://gum.co/GetFaceMask)
+- 👾 Software Engineer (Master Degree in Computer Engineering)
 
-- 📫 How to reach me **sithukaungset27@gmail.com**
+- 📫 How to reach me **sithukaungset27@gmail.com** **sithukaungset@dongguk.ac.kr**
 
 ### What are my featured projects:question::rocket:
 
