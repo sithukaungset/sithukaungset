@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/sithukaungset/sithukaungset/blob/main/space.gif" width="100px"> I'm SITHU KAUNG SET</h1>
+<h1 align="center">Hi <img src="https://github.com/sithukaungset/sithukaungset/blob/main/space.gif" width="80px"> I'm SITHU KAUNG SET</h1>
 <h3 align="center">git commit -m "Hello, I'm a Software Engineer"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithukaungset&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
