@@ -13,7 +13,7 @@
 
 ### Featured Projects:rocket:
 
-<code>[ShopBlock](https://github.com/sithukaungset/finalshopblock)</code>:hourglass:  
+<code>[ShopBlock](https://github.com/sithukaungset/finalshopblock)</code>:blockchain:  
 <code>[HealthBridge](https://github.com/orgs/Health-Bridge-INLab)</code>:mask:  
 <code>[SmartHealth](https://github.com/sithukaungset/SmartHealth)</code>:robot:
 
