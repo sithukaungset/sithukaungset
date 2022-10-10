@@ -13,7 +13,7 @@
 
 ### Featured Projects:rocket:
 
-- [ShopBlock] Blockchain-based E-Commerce Platform(https://github.com/sithukaungset/finalshopblock)⛓  
+- [ShopBlock] Blockchain-based E-Commerce Platform(https://github.com/sithukaungset/finalshopblock)⛓🛒 
 
 - [HealthBridge]Blockchain-based Intelligent Healthcare Service Platform(https://github.com/orgs/Health-Bridge-INLab)🧬🔬  
 
