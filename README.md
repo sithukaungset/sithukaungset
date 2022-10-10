@@ -15,7 +15,7 @@
 
 <code>[ShopBlock] Blockchain-based E-Commerce Platform(https://github.com/sithukaungset/finalshopblock)</code>⛓  
 <code>[HealthBridge]Blockchain-based Intelligent Healthcare Service Platform (https://github.com/orgs/Health-Bridge-INLab)</code>🧬🔬  
-<code>[SmartHealth] Healthcare Android App(https://github.com/sithukaungset/SmartHealth)</code>💊🛌
+<code>[SmartHealth] Android App from Insomnia (https://github.com/sithukaungset/SmartHealth)</code>💊🛌
 <code>[GymBro] Android App for Gym Bros(https://github.com/sithukaungset/gymbro)</code>🏋️‍♂️💪
 
 <h3 align="left">Languages and Tools:</h3>
