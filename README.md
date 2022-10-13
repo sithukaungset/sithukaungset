@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithukaungset&label=Profile%20views&color=0e75b6&style=flat" alt="sithukaungset" /> </p>
 
-<img align="right"  alt="" src="https://github.com/sithukaungset/sithukaungset/blob/main/walking.gif" height=350/>
+<img align="right"  alt="" src="https://github.com/sithukaungset/sithukaungset/blob/main/alien.gif" height=350/>
 
 - 👽 All about me is at [My Website](https://sithukaungset.github.io/)
 
