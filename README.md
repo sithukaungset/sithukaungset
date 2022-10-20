@@ -9,7 +9,7 @@
 
 - 🖥 Blockchain, Machine Learning, Networking, Security
 
-- 👾 Software Engineer (Master Degree in Computer Engineering)
+- 👾 Software Engineer (Master Degree in Computer Science)
 
 - 📫 How to reach me **sithukaungset27@gmail.com** **sithukaungset@dongguk.ac.kr**
 
