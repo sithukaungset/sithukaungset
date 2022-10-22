@@ -24,6 +24,8 @@
 
 - [GymBro] Android App for Gym Bros(https://github.com/sithukaungset/gymbro) 🏋️‍♂️💪
 
+- [SVM Blockchain] SVM (Support Vector Machine for Blockchain)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://ethereum.org" target="_blank" rel="noreferrer"> <img src="https://github.com/ErikThiart/cryptocurrency-icons/blob/master/icons/ethereum.png" alt="aws" width="40" height="40"/> </a>
