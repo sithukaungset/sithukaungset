@@ -23,7 +23,7 @@
 
 - [GymBro] Android App for Gym Bros(https://github.com/sithukaungset/gymbro) 🏋️‍♂️💪
 
-- [SVM Blockchain] SVM (Support Vector Machine for Blockchain)
+- [AI for Blockchain] SVM based Peer Set Selection Mechanism for Private Blockchain(https://github.com/sithukaungset/SVM-based-Peer-Set-Selection-Mechanism) 🦾⛓
 
 <strong>Github Stats</strong>
 
