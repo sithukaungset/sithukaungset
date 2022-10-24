@@ -27,7 +27,7 @@
 
 <strong>Github Stats</strong>
 
-![Sithu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sithukaungset&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
+![Sithu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sithukaungset&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
 
 <strong>🏆 Dooboo lab's github stats</strong>
 
