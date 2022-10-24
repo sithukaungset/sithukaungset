@@ -32,6 +32,8 @@
 <a href="https://www.hyperledger.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/sithukaungset/sithukaungset/blob/main/hyperledger-removebg-preview.png" alt="aws" width="40" height="40"/> </a>
 <a href="https://cosmos.network/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/228843?s=200&v=4" alt="aws" width="40" height="40"/> </a>
 <a href="https://tendermint.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/7572940?s=200&v=4" alt="aws" width="40" height="40"/> </a>
+<a href="https://solana.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/35608259?s=200&v=4" alt="aws" width="40" height="40"/> </a>
+<a href="https://chain.link/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/25111032?s=200&v=4" alt="aws" width="40" height="40"/> </a>
 <a href="https://github.com/OpenMined/TenSEAL" target="_blank" rel="noreferrer"> <img src="https://github.com/sithukaungset/sithukaungset/blob/main/tenseal-removebg-preview.png" alt="aws" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" alt="aws" width="40" height="40"/> </a>
