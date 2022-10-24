@@ -13,10 +13,6 @@
 
 - 📫 How to reach me **sithukaungset27@gmail.com** **sithukaungset@dongguk.ac.kr**
 
-<strong>Github Stats</strong>
-
-![Sithu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sithukaungset&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
-
 ### Featured Projects:rocket:
 
 - [ShopBlock] Blockchain-based E-Commerce Platform(https://github.com/sithukaungset/finalshopblock) ⛓🛒 
@@ -28,6 +24,10 @@
 - [GymBro] Android App for Gym Bros(https://github.com/sithukaungset/gymbro) 🏋️‍♂️💪
 
 - [SVM Blockchain] SVM (Support Vector Machine for Blockchain)
+
+<strong>Github Stats</strong>
+
+![Sithu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sithukaungset&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
