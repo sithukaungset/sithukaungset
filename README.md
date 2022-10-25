@@ -31,6 +31,9 @@
 
 <a href="https://app.dooboo.io/sithukaungset"><img src="https://server.dooboo.io/github-stats/sithukaungset" width="600" /></a>
 
+![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sithukaungset&layout=compact&langs_count=8&exclude_repo=flash-experiments&theme=highcontrast)
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://ethereum.org" target="_blank" rel="noreferrer"> <img src="https://github.com/ErikThiart/cryptocurrency-icons/blob/master/icons/ethereum.png" alt="aws" width="40" height="40"/> </a>
