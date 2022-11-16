@@ -33,6 +33,7 @@
 
 ![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sithukaungset&layout=compact&langs_count=8&exclude_repo=flash-experiments&theme=highcontrast)
 
+![Sithu Kaggle stats](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{sithukaungset})
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
