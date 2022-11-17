@@ -25,7 +25,7 @@
 
 - [AI for Blockchain] SVM based Peer Set Selection Mechanism for Private Blockchain(https://github.com/sithukaungset/SVM-based-Peer-Set-Selection-Mechanism) 🦾⛓
 
-<strong>Github Stats</strong>
+### <strong>Github and Kaggle Stats 🐉 👾</strong>
 
 ![Sithu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sithukaungset&include_all_commits=true&show_icons=true&theme=highcontrast)
 [![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/sithukaungset/notebook)](https://www.kaggle.com/sithukaungset)
