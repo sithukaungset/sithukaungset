@@ -30,10 +30,9 @@
 ![Sithu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sithukaungset&include_all_commits=true&show_icons=true&theme=highcontrast)
 [![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/sithukaungset/notebook)](https://www.kaggle.com/sithukaungset)
 
-<a href="https://app.dooboo.io/sithukaungset"><img src="https://server.dooboo.io/github-stats/sithukaungset" width="600" /></a>
+<a href="https://app.dooboo.io/sithukaungset"><img align="right" src="https://server.dooboo.io/github-stats/sithukaungset" width="600" /></a>
 
 ![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sithukaungset&layout=compact&langs_count=8&exclude_repo=flash-experiments&theme=highcontrast)
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
