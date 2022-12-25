@@ -11,6 +11,8 @@
 
 - 👾 Software Engineer (Master Degree in Computer Science)
 
+- Thesis
+
 - 📫 How to reach me **sithukaungset27@gmail.com** **sithukaungset@dongguk.ac.kr**
 
 ### Featured Projects:rocket:
