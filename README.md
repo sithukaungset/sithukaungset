@@ -11,7 +11,7 @@
 
 - 👾 Software Engineer (Master Degree in Computer Science)
 
-- 🧠 [Thesis](https://ieeexplore.ieee.org/document/9998085) (Service-Aware Dynamic Sharding Approach for Scalable Blockchain)
+- 🧠 [IEEE TSC Thesis](https://ieeexplore.ieee.org/document/9998085) (Service-Aware Dynamic Sharding Approach for Scalable Blockchain)
 
 - 📫 How to reach me **sithukaungset27@gmail.com** **sithukaungset@dongguk.ac.kr**
 
