@@ -11,7 +11,7 @@
 
 - 👾 Software Engineer (Master Degree in Computer Science)
 
-- Thesis
+- 🧠 [Thesis](https://ieeexplore.ieee.org/document/9998085)
 
 - 📫 How to reach me **sithukaungset27@gmail.com** **sithukaungset@dongguk.ac.kr**
 
