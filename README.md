@@ -21,7 +21,7 @@
 
 - [ShopBlock] Blockchain-based E-Commerce Platform(https://github.com/sithukaungset/finalshopblock) ⛓🛒 
 
-- [HealthBridge]Blockchain-based Intelligent Healthcare Service Platform(https://github.com/orgs/Health-Bridge-INLab) 🧬🔬  
+- [HealthBit] Blockchain-based Intelligent Healthcare Service Platform(https://github.com/orgs/Health-Bridge-INLab) 🧬🔬  
 
 - [SmartHealth] Android App from Insomnia (https://github.com/sithukaungset/SmartHealth) 💊🛌
 
