@@ -19,15 +19,15 @@
 
 ### Featured Projects:rocket:
 
-- [ShopBlock](https://github.com/sithukaungset/finalshopblock) Blockchain-based E-Commerce Platform ⛓🛒 
+- [ShopBlock](https://github.com/sithukaungset/finalshopblock) [Blockchain-based E-Commerce Platform] ⛓🛒
 
-- [HealthBit](https://github.com/orgs/Health-Bridge-INLab) Blockchain-based Intelligent Healthcare Service Platform 🧬🔬  
+- [HealthBit](https://github.com/orgs/Health-Bridge-INLab) [Blockchain-based Intelligent Healthcare Service Platform] 🧬🔬  
 
-- [SmartHealth](https://github.com/sithukaungset/SmartHealth) Android App from Insomnia 💊🛌
+- [SmartHealth](https://github.com/sithukaungset/SmartHealth) [Android App from Insomnia] 💊🛌
 
-- [GymBro](https://github.com/sithukaungset/gymbro) Android App for Gym Bros 🏋️‍♂️💪
+- [GymBro](https://github.com/sithukaungset/gymbro) [Android App for Gym Bros] 🏋️‍♂️💪
 
-- [AI for Blockchain](https://github.com/sithukaungset/SVM-based-Peer-Set-Selection-Mechanism) SVM based Peer Set Selection Mechanism for Private Blockchain 🦾⛓
+- [AI for Blockchain](https://github.com/sithukaungset/SVM-based-Peer-Set-Selection-Mechanism) [SVM based Peer Set Selection Mechanism for Private Blockchain] 🦾⛓
 
 ### <strong>Github and Kaggle Stats 🐉 👾</strong>
 
