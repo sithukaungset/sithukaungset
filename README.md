@@ -32,7 +32,7 @@
 ### <strong>Github and Kaggle Stats 🐉 👾</strong>
 
 ![Sithu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sithukaungset&include_all_commits=true&show_icons=true&theme=highcontrast)
-[![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/sithukaungset/notebook)](https://www.kaggle.com/sithukaungset)
+
 
 <a href="https://app.dooboo.io/sithukaungset"><img align="right" src="https://server.dooboo.io/github-stats/sithukaungset" width="460" /></a>
 
