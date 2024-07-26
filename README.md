@@ -9,7 +9,7 @@
 
 - 🖥 Generative AI, LLM, Responsible AI, LLMOps, Cloud Computing, Machine Learning, Networking, Security
 
-- 👾 Software Engineer (Master Degree in Computer Science)
+- 👾 AI Solutions Architect/AI Engineer (Master Degree in Computer Science)
 
 - 🧠 [IEEE TSC Thesis](https://ieeexplore.ieee.org/document/9998085) (Service-Aware Dynamic Sharding Approach for Scalable Blockchain)
 
