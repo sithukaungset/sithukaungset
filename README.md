@@ -7,7 +7,7 @@
 
 - 👽 All about me is at [My Website](https://sithukaungset.github.io/3Dportfolio/)
 
-- 🖥 Blockchain, Machine Learning, Networking, Security
+- 🖥 Generative AI, LLM, Responsible AI, LLMOps, Cloud Computing, Machine Learning, Networking, Security
 
 - 👾 Software Engineer (Master Degree in Computer Science)
 
