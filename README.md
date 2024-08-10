@@ -18,9 +18,9 @@
 - 📫 How to reach me **sithukaungset27@gmail.com** **sithu@megazone.com**
 
 ### <strong>GenAI Projects 🚀 </strong>
-![Megazone Avatar with Azure OpenAI and Azure AI Services](https://nice-bush-0077b9b0f.5.azurestaticapps.net/)
+Megazone Avatar with Azure OpenAI and Azure AI Services(https://nice-bush-0077b9b0f.5.azurestaticapps.net/)
 
-![MegaChat Enterprise](https://github.com/sithuAOAI/MegaChat)
+MegaChat Enterprise(https://github.com/sithuAOAI/MegaChat)
 
 
 ### <strong>Github and Kaggle Stats 🐉 👾</strong>
