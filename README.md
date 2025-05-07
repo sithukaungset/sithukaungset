@@ -15,7 +15,7 @@
 
 - 🤖 [Conference Thesis](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=FZYzDRkAAAAJ&citation_for_view=FZYzDRkAAAAJ:u5HHmVD_uO8C) (Machine Learning-based Endorsing Peer Set Selection Scheme for Scalable Blockchain over Wireless Networks)
 
-- 📫 How to reach me **sithukaungset27@gmail.com** **sithu@megazone.com**
+- 📫 How to reach me **sithukaungset27@gmail.com** **siset@microsoft.com**
 
 ### <strong>GenAI Projects 🚀 </strong>
 Megazone Avatar with Azure OpenAI and Azure AI Services(https://nice-bush-0077b9b0f.5.azurestaticapps.net/)
